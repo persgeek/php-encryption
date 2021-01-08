@@ -7,7 +7,7 @@ class Encryption
     /**
      * Documentation for this.
      */
-    const MODE_CFB = 'AES-128-CFB';
+    const MODE_CFB = 'AES-128-OFB';
 
     /**
      * Documentation for this.
